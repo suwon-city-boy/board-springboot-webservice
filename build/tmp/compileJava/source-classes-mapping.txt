@@ -1,0 +1,2 @@
+com/scb/study/springboot/Application.java
+ com.scb.study.springboot.Application
