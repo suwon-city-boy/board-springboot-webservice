@@ -1,5 +1,6 @@
 package com.scb.study.springboot.domain.posts;
 
+import com.scb.study.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -9,7 +10,7 @@ import javax.persistence.*;
 @Getter
 @NoArgsConstructor
 @Entity
-public class Posts { //DB와 매칭될 클래스
+public class Posts extends BaseTimeEntity { //DB와 매칭될 클래스
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY) //auto_increment(Spring 2.0)
