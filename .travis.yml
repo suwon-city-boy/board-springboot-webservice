@@ -48,4 +48,4 @@ deploy:
 notifications:
   email:
     recipients:
-      - kimsungkyu.dev@gmail.com
+      - kimsungkyu.dev@gmail.co
