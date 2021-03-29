@@ -1,9 +1,11 @@
 # board-springboot-webservice
 
-[![Build Status](https://travis-ci.org/suwon-city-boy/board-springboot-webservice.svg?branch=master)](https://travis-ci.org/suwon-city-boy/board-springboot-webservice)
+![Build Status](https://travis-ci.org/suwon-city-boy/board-springboot-webservice.svg?branch=master)
 ![Generic badge](https://img.shields.io/badge/Java-8-blue.svg)
 ![Generic badge](https://img.shields.io/badge/Spring-2.1.x-green.svg)
 ![Generic badge](https://img.shields.io/badge/Gradle-4.x-brightgreen.svg)
+
+<img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
 목표
 -----------
@@ -39,7 +41,7 @@ Functions / 기능
 Architecture / 구조
 -----------
 ![](./img/architecture.png)
-
+ 
 Acknowledgments / 감사의 말
 -----------
 '스프링 부트와 AWS로 혼자 구현하는 웹 서비스'의 저자 [이동욱](https://github.com/jojoldu)님
