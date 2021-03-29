@@ -42,4 +42,4 @@ Architecture / 구조
 
 Acknowledgments / 감사의 말
 -----------
-'스프링 부트와 AWS로 혼자 구현하는 웹 서비스'의 저자 [이동욱](https://github.com/jojoldu)
+'스프링 부트와 AWS로 혼자 구현하는 웹 서비스'의 저자 [이동욱](https://github.com/jojoldu)님
